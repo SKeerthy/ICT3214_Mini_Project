@@ -1,2 +1,4 @@
 # ICT3214_Mini_Project
-A recipe collection mobile app created using Android Studio
+
+Recipe Collection Mobile Application - ICT3214 Group Project
+
